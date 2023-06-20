@@ -1,0 +1,11 @@
+export const API_ENV = "devNet"
+export const API_ENDPOINT_LOCAL = "http://127.0.0.1:5001/"
+export const API_ENDPOINT_LOCAL_FULLNODE = "http://127.0.0.1:9000/"
+export const API_ENDPOINT_LOCAL_FAUCET = "http://127.0.0.1:5003/"
+export const API_ENDPOINT_DEV_NET_FULLNODE = "https://wallet-rpc.devnet.sui.io/"
+export const API_ENDPOINT_DEV_NET_FAUCET = "https://faucet.devnet.sui.io/"
+export const API_ENDPOINT_TEST_NET_FULLNODE = "https://wallet-rpc.testnet.sui.io/"
+export const API_ENDPOINT_TEST_NET_FAUCET = "https://faucet.testnet.sui.io/"
+export const API_ENDPOINT_MAINNET_FULLNODE = "https://wallet-rpc.mainnet.sui.io/"
+export const SUI_APPS_API_ENDPOINT = "https://raw.githubusercontent.com/MystenLabs/sui/main/apps/wallet/apps/dapps.json"
+
